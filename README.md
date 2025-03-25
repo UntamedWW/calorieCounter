@@ -21,10 +21,9 @@ Event-driven programming
 🚀 Getting Started
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/calorie-counter.git
+
+```git clone https://github.com/yourusername/calorie-counter.git```
+
 Open index.html in your browser to start using the app.
 
 Modify and experiment with the JavaScript logic in script.js.
